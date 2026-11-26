@@ -21,7 +21,7 @@ display:
 
 | Piece | What it is |
 | :--- | :--- |
-| A Markdown file | One procedure, manual section or page |
+| A Markdown file rwar | One procedure, manual section or page |
 | A folder | A category |
 | `d360.json` | The manifest — what order readers see things in |
 | `.document360/` | Variables, tags, labels and snippets, as files |
@@ -49,7 +49,6 @@ flowchart LR
 ```
 
 [d360]: # "/mermaid"
-
 [d360]: # 'callout kind="success"'
 
 > **One path, no exceptions, is the point**
