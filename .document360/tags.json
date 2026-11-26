@@ -1,0 +1,62 @@
+{
+  "groups": [
+    {
+      "name": "Audience",
+      "description": "Who the page is written for."
+    },
+    {
+      "name": "Topic",
+      "description": "What the page is about."
+    }
+  ],
+  "tags": [
+    {
+      "uniqueId": "admin",
+      "name": "admin",
+      "description": "Written for someone with project administration rights.",
+      "group": "Audience"
+    },
+    {
+      "uniqueId": "approver",
+      "name": "approver",
+      "description": "Written for whoever signs a procedure off.",
+      "group": "Audience"
+    },
+    {
+      "uniqueId": "control",
+      "name": "control",
+      "description": "Approval, sign-off, review dates and the audit trail.",
+      "group": "Topic"
+    },
+    {
+      "uniqueId": "getting-started",
+      "name": "getting-started",
+      "description": "First hour in a new project.",
+      "group": "Topic"
+    },
+    {
+      "uniqueId": "git",
+      "name": "git",
+      "description": "The repository, branches and commits.",
+      "group": "Topic"
+    },
+    {
+      "uniqueId": "procedures",
+      "name": "procedures",
+      "description": "Writing the procedures themselves.",
+      "group": "Topic"
+    },
+    {
+      "uniqueId": "structure",
+      "name": "structure",
+      "description": "Categories, the manifest, front matter and URLs.",
+      "group": "Topic"
+    },
+    {
+      "uniqueId": "writer",
+      "name": "writer",
+      "description": "Written for someone writing the documentation.",
+      "group": "Audience"
+    }
+  ]
+}

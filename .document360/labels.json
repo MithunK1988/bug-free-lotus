@@ -1,0 +1,15 @@
+{
+  "groups": [],
+  "labels": [
+    {
+      "uniqueId": "sample-content",
+      "name": "Sample content",
+      "description": "Seeded when the project was created. Safe to edit or delete."
+    },
+    {
+      "uniqueId": "verify-before-launch",
+      "name": "Verify before launch",
+      "description": "States Document360 behaviour that has not been confirmed against the shipping build."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "variables": [
+    {
+      "name": "editorName",
+      "global": true,
+      "value": "Editor V3"
+    },
+    {
+      "name": "productType",
+      "global": true,
+      "value": "Document360 Lotus"
+    },
+    {
+      "name": "siblingType",
+      "global": true,
+      "value": "Document360 Prime"
+    }
+  ]
+}

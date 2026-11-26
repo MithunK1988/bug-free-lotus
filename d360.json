@@ -1,0 +1,118 @@
+{
+  "serializerVersion": 1,
+  "languages": [
+    { "code": "en", "default": true }
+  ],
+  "nodes": [
+    {
+      "paths": [
+        { "langs": ["en"], "path": "start-here/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "start-here/how-this-project-works.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "start-here/where-your-procedures-live.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "start-here/your-first-change.md" }
+          ]
+        }
+      ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "writing-procedures/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "writing-procedures/the-shape-of-a-procedure.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "writing-procedures/steps-warnings-and-safety.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "writing-procedures/reuse.md" }
+          ]
+        }
+      ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "control-and-approval/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "control-and-approval/review-and-sign-off.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "control-and-approval/the-audit-trail.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "control-and-approval/review-dates-and-expiry.md" }
+          ]
+        }
+      ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "structure/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "structure/categories-and-the-manifest.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "structure/front-matter-for-controlled-docs.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "structure/urls-and-renaming.md" }
+          ]
+        }
+      ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "keeping-it-current/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "keeping-it-current/versions-and-releases.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "keeping-it-current/change-notification.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "keeping-it-current/retiring-a-procedure.md" }
+          ]
+        }
+      ]
+    }
+  ]
+}
