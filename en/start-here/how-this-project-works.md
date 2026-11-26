@@ -1,5 +1,5 @@
 ---
-title: How this project works - edit1
+title: How this project works
 internalDescription: Files, branches, review, publish — and why the repository is the record.
 tags:
   - getting-started
