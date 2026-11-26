@@ -18,7 +18,7 @@ display:
 ## The layout
 
 Everything readers see sits under a documentation root — `docs/` in a default setup — with one folder
-per language inside it.
+per language inside it. test
 
 ```text
 docs/
@@ -53,7 +53,6 @@ article.
 | `.document360/snippets/global/` | Reusable blocks of content |
 
 [d360]: # "/table"
-
 [d360]: # 'figure align="center" width="820"'
 
 ![Storage on the left, the navigation readers see on the right, joined by the manifest](https://placehold.co/820x340/0f172a/c7d2fe/png?text=Folders++%E2%86%92++d360.json++%E2%86%92++Navigation){width="820" height="340"}
@@ -66,7 +65,7 @@ other, which is why renaming a folder is safe and reordering the manifest is not
 ## What to leave alone until you have read more
 
 > [!CAUTION]
-> **`d360.json` is the file where a careless edit is visible to readers**
+> **d360.json is the file where a careless edit is visible to readers**
 >
 > A node pointing at a file that is not there, or a file in no node, produces a navigation that is
 > wrong in a way nothing announces. [Categories and the manifest](../structure/categories-and-the-manifest.md)

@@ -1,5 +1,5 @@
 ---
-title: How this project works
+title: How this project works - edit
 internalDescription: Files, branches, review, publish — and why the repository is the record.
 tags:
   - getting-started
@@ -8,7 +8,7 @@ tags:
 labels:
   - sample-content
 seo:
-  title: How a Document360 Lotus project works
+  title: How this project works - edit
   description: The pieces of the project and which of them holds the evidence.
 display:
   toc: true
