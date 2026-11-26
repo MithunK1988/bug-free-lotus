@@ -62,7 +62,7 @@ other, which is why renaming a folder is safe and reordering the manifest is not
 
 [d360]: # "/figure"
 
-## What to leave alone until you have read more
+## What to leave alone until you have read more and more
 
 > [!CAUTION]
 > **d360.json is the file where a careless edit is visible to readers**
