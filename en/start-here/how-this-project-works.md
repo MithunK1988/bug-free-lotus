@@ -30,7 +30,7 @@ display:
 [d360]: # "/table"
 
 > [!IMPORTANT]
-> **The last row is the one that matters here**
+> **The last row is the one thatd matters here**
 >
 > In a controlled-documentation project the history is not a convenience. It is the evidence that the
 > procedure in force on a given date said what you say it said, and that a named person approved it.
