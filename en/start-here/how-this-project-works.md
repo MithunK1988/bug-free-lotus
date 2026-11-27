@@ -15,7 +15,7 @@ display:
   outline: true
 ---
 
-## The pieces
+## The pieces-test
 
 [d360]: # 'table border="all" striped="true"'
 
