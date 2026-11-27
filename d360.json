@@ -23,6 +23,11 @@
           "paths": [
             { "langs": ["en"], "path": "start-here/your-first-change.md" }
           ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "start-here/qr90-drive-asset.md" }
+          ]
         }
       ]
     },
