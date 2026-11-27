@@ -1,5 +1,5 @@
 ---
-title: How this project works - edit
+title: How this project works - edit test
 internalDescription: Files, branches, review, publish — and why the repository is the record.
 tags:
   - getting-started
@@ -8,7 +8,7 @@ tags:
 labels:
   - sample-content
 seo:
-  title: How this project works - edit
+  title: How this project works - edit test
   description: The pieces of the project and which of them holds the evidence.
 display:
   toc: true
